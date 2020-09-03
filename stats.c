@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <stats.c> 
- * @brief <This c program performs various operations on a given array>
+ * @file <Add File Name> 
+ * @brief <Add Brief Description Here >
  *
- * <This file performs sorting,find maximum,minimum,mean,median and print the statistics>
+ * <Add Extended Description Here>
  *
- * @author <Balaji Balasubramanian>
- * @date <02/10/2020 >
+ * @author <Add FirsName LastName>
+ * @date <Add date >
  *
  */
 
@@ -28,14 +28,16 @@
 #define SIZE (40)
 
 void main() {
-/* Input array*/
+
   unsigned char test[SIZE] = { 34, 201, 190, 154,   8, 194,   2,   6,
                               114, 88,   45,  76, 123,  87,  25,  23,
                               200, 122, 150, 90,   92,  87, 177, 244,
                               201,   6,  12,  60,   8,   2,   5,  67,
                                 7,  87, 250, 230,  99,   3, 100,  90};
 
-  
-
+  /* Other Variable Declarations Go Here */
+  /* Statistics and Printing Functions Go Here */
 
 }
+
+/* Add other Implementation File Code Here */
